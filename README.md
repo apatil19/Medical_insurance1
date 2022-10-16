@@ -4,3 +4,5 @@ Types of Insurance
 duration
 installements
 ability criterais
+salary
+age
